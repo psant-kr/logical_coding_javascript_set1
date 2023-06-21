@@ -1,5 +1,5 @@
 
-// method 2 but not fully correct.
+// fully correct with use of in built method.
 // let strArr=str.split("").join(""), this is the concept theory we will use.
 
 const str = "hi, i am prashant    kumar a react.js developer"
