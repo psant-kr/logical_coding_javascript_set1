@@ -7,11 +7,11 @@ ex- n = 3 ans is 5.
 
 */
 
-function  noConsicutiveOnes(n){
-    if(n == 1) return 2;
-    if(n == 2) return 3;
-    if(n > 2){
-        return noConsicutiveOnes(n -1) + noConsicutiveOnes( n -2);
-    }
+function noConsicutiveOnes(n) {
+    if (n == 1) return 2;
+    if (n == 2) return 3;
+    if (n > 2) {
+        return noConsicutiveOnes(n - 1) + noConsicutiveOnes(n - 2);
+    };
 }
 console.log(noConsicutiveOnes(6));
