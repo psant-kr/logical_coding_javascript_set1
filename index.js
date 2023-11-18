@@ -15,6 +15,6 @@ let new_arr=arr.filter((e,i)=>{
     
     return  arr.indexOf(e) === i;
 })
-console.log(new_arr)
+console.log(new_arr);
 
 //===========================================
