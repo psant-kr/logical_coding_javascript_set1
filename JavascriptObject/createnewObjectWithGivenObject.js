@@ -22,6 +22,7 @@ const person = {
   console.log(employee.pay); // 1000000
   console.log(employee);
   //------------------------------------------------------------
+//-------------------------------------------------------
   // function Person(name, age) {
   //   this.name = name;
   //   this.age = age;
