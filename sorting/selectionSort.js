@@ -31,3 +31,4 @@ let arr = [15, 1, 6, 3, -1, 2, 10];
 console.log(selectionSort(arr));
 console.log(arr);
 console.log(arr);
+console.log(arr);
