@@ -24,3 +24,4 @@ let arr = [21, 23, 5, 4, 3, 2, 1];
 let k = 3;
 console.log(sort(arr, k));
 console.log(sort(arr, k));
+console.log(sort(arr, k));
