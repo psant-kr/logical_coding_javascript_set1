@@ -19,6 +19,9 @@ while (i <= j) {
 };
 
 console.log(arr);
+console.log(arr);
+
+
 
 
 
