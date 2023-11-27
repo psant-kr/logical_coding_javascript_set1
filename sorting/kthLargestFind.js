@@ -25,3 +25,4 @@ let k = 3;
 console.log(sort(arr, k));
 console.log(sort(arr, k));
 console.log(sort(arr, k));
+console.log(sort(arr, k));
