@@ -20,3 +20,4 @@ function findSecondLargest(arr) {
 const arr = [1, 5, 3, 2, 4];
 const secondLargestNumber = findSecondLargest(arr);
 console.log(secondLargestNumber); // 4
+console.log(secondLargestNumber); // 4
