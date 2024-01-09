@@ -23,3 +23,4 @@ console.log(secondLargestNumber); // 4
 console.log(secondLargestNumber); // 4
 console.log(secondLargestNumber); // 4
 console.log(secondLargestNumber); // 4
+console.log(secondLargestNumber); // 4
